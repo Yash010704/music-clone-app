@@ -13,9 +13,9 @@ from sqlalchemy.orm import joinedload
 router = APIRouter()
 
 cloudinary.config( 
-    cloud_name = "dirf6scel", 
-    api_key = "342415935719442", 
-    api_secret = "SfNHM3x-npBsJU6auIZfdRycAhA", # Click 'View API Keys' above to copy your API secret
+    cloud_name = "xxxxx", 
+    api_key = "xxxxxxxxx", 
+    api_secret = "xxxxxxxx", # Click 'View API Keys' above to copy your API secret
     secure=True
 )
 
